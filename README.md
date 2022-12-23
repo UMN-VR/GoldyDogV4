@@ -1,6 +1,6 @@
 # Spot Micro Quadruped Project
 
-[![Env](Gifs/GoldyDogV4 w/ Insta360.gif)](https://poly.cam/capture/64365421-F546-46C2-90AB-B86434DDAE5A)
+[![Env](Gifs/GoldyDogV4wInsta360.gif)](https://poly.cam/capture/64365421-F546-46C2-90AB-B86434DDAE5A)
 
 * [Overview](#Overview)
 * [General Instructions](#general-instructions)
