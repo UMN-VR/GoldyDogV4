@@ -1,8 +1,6 @@
 # Spot Micro Quadruped Project
 
-
-<iframe width="100%" height="815" frameborder="0" src="https://poly.cam/capture/64365421-F546-46C2-90AB-B86434DDAE5A"></iframe>
-
+[![Env](Gifs/GoldyDogV4 w/ Insta360.gif)](https://poly.cam/capture/64365421-F546-46C2-90AB-B86434DDAE5A)
 
 * [Overview](#Overview)
 * [General Instructions](#general-instructions)
