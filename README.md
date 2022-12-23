@@ -1,11 +1,8 @@
 # Spot Micro Quadruped Project
 
-![Spot Micro Walking](assets/spot_micro_walking.gif)
-![RVIZ](assets/rviz_animation.gif)
-![slam](assets/spot_micro_slam.gif)
 
+<iframe width="100%" height="815" frameborder="0" src="https://poly.cam/capture/64365421-F546-46C2-90AB-B86434DDAE5A"></iframe>
 
-Video of robot: https://www.youtube.com/watch?v=S-uzWG9Z-5E
 
 * [Overview](#Overview)
 * [General Instructions](#general-instructions)
