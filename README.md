@@ -1,3 +1,5 @@
+###### READMEv7.0 <br/> Made with ❤️ by [Felipe Galindo](https://felipegalind0.github.io)
+
 # GoldyDogV4
 
 [![Env](Gifs/GoldyDogV4wInsta360.gif)](https://poly.cam/capture/64365421-F546-46C2-90AB-B86434DDAE5A)\
